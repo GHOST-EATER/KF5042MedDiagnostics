@@ -1,5 +1,6 @@
 # KF5042 
 ## Artificial Intelligence in Medical Diagnostics: The Suitability of Support Vector Machines for Cell Nuclei Classification
+### Jack Hunter, w19011677
 
 Code and data for a Support Vector Machine (SVM) and a Decision tree (DT) used in classifying cell nuclei
 
